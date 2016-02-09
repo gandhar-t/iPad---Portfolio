@@ -6,13 +6,13 @@
 //  Copyright © 2016 gandhartannu. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "ResumeViewController.h"
 
-@interface ViewController ()
+@interface ResumeViewController ()
 
 @end
 
-@implementation ViewController
+@implementation ResumeViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -23,5 +23,9 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+#pragma mark - Skills Button Actions
+
+#pragma mark - Work Timeline Button Actions
 
 @end
